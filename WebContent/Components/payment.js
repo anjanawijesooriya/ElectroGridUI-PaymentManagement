@@ -127,6 +127,7 @@ $("#hidPaymentIDSave").val("");
  $("#formPayment")[0].reset();
 }
 
+//onDelete function implementation
 function onPaymentDeleteComplete(response, status)
 {
 if (status == "success")
