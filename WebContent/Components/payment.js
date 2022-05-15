@@ -98,6 +98,7 @@ if ($("#Pay_total_price").val().trim() == "")
 return true;
 }
 
+//onSave function implementation
 function onPaymentSaveComplete(response, status)
 {
 if (status == "success")
