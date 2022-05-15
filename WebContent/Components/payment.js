@@ -77,7 +77,7 @@ if ($("#Pay_customer_ame").val().trim() == "")
  return "Insert Pay_customer_ame.";
  } 
 
-// account number-------------------------------
+// account number
 if ($("#Pay_acc").val().trim() == "")
  {
  return "Insert Pay_acc.";
