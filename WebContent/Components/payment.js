@@ -89,7 +89,7 @@ if ($("#Pay_date").val().trim() == "")
  return "Insert Pay_date.";
  }
   
- // Total Price-------------------------------
+ // Total Price
 if ($("#Pay_total_price").val().trim() == "")
  {
  return "Insert Pay_total_price.";
