@@ -83,7 +83,7 @@ if ($("#Pay_acc").val().trim() == "")
  return "Insert Pay_acc.";
  }
 
-// Payment Date
+// Payment Date------
 if ($("#Pay_date").val().trim() == "")
  {
  return "Insert Pay_date.";
